@@ -12,6 +12,7 @@ Python and Tableau Project- market analysis of one of the most populous counties
 [Python Scripts](https://github.com/Janelle210/King-County-Home-Sales-03-2024/tree/main/scripts)
 
 # Python Visuals
+[Visuals](https://github.com/Janelle210/King-County-Home-Sales-03-2024/tree/main/visuals)
 
 # Tableau Storyboard
 [King County Home Sales Tableau Project](https://public.tableau.com/views/KingCountyHomeSales_17106499312470/KingCountySales?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
